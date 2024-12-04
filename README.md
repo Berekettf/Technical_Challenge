@@ -48,3 +48,25 @@ The `.storybook` folder allows for:
 - Component documentation and live previews.
 
 ---
+
+# Custom Table Component using Element Plus
+[Table.vue](https://github.com/Berekettf/Technical_Challenge/blob/main/components/templates/Table.vue#L1C1-L66C9)
+
+This repository includes a custom Vue component for creating a responsive, data-driven table using the **Element Plus** library. The table is designed with row-specific styling and supports TypeScript for better type safety and maintainability.
+
+## Features
+
+1. **Data Rendering**:  
+   Displays tabular data with customizable columns using `el-table` and `el-table-column`.
+
+2. **Conditional Row Styling**:  
+   Highlights specific rows based on conditions with predefined classes:  
+   - `warning-row`: Applied to row index `1`.  
+   - `success-row`: Applied to row index `3`.
+
+3. **TypeScript Support**:  
+   Leverages TypeScript interfaces for defining data types (`User` interface), ensuring safer and more readable code.
+
+4. **Responsive Design**:  
+   Achieves a full-width table layout with inline styling.
+
