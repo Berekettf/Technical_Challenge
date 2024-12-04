@@ -1,3 +1,4 @@
+<!-- InputField.vue -->
 <template>
   <input
     :id="id"
