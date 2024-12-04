@@ -6,31 +6,39 @@ This repository presents a complete implementation of a scalable design system a
 👇 **Video Demo**
 ---
 
-📂 Directory Structure and Features
 
+
+📂 Directory Structure and Features
+---
 ### **1. Component-based Design System**
+---
 The project follows the **Atomic Design Principle** [see more](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) for UI development, categorized into **Atoms**, **Molecules**,**Organisms**, and "Templates":
+---
 
 - **Atoms**: Small, reusable UI elements.
+  ---
   - `Icon.vue`: Renders application-wide icons.
   - `InputField.vue`: Manages input fields with validation or styles.
   - `Text.vue`: Displays consistent text elements.
   
 - **Molecules**: Groups of atoms working together.
+  ---
   - `ActionButton.vue`: Reusable buttons for various actions.
   - `InputBox.vue`: Combines input fields with labels and validation feedback.
 
 - **Organisms**: Complex UI components.
+  ---
   - `EmailSignUPForm.vue`: Implements a complete email sign-up form.
 
 ### **2. Page Templates**
+---
 Reusable templates for consistent structure:
 - `SignUpForm.vue`: Provides a user-friendly form for sign-up flows.
 - `Table.vue`: Displays structured data in a tabular format with responsive design.
 
 ### **3. Pages**
 Predefined pages to route users:
-- `external.vue`: Handles external resources or links.
+- `external.vue`: this page shows the components used from external liberary "Element Plus".
 - `index.vue`: The primary landing page for the application.
 
 ### **4. Storybook Integration**
