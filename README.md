@@ -13,7 +13,7 @@ This repository presents a complete implementation of a scalable design system a
 ### **1. Component-based Design System**
 ---
 
-The project follows the **Atomic Design Principle** [see more](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) for UI development, categorized into **Atoms**, **Molecules**,**Organisms**, and "Templates":
+`The project follows the **Atomic Design Principle** [see more](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) for UI development, categorized into **Atoms**, **Molecules**,**Organisms**, and "Templates"`:
 ---
 
 **Atoms**: Small, reusable UI elements.
