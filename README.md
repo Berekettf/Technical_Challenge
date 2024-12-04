@@ -39,7 +39,7 @@ Reusable templates for consistent structure:
 
 ### **3. Pages**
 Predefined pages to route users:
-- `external.vue`:   This page shows the components used from external liberary "Element Plus".
+- `external.vue`:   This page shows the components used from external liberary **Element Plus**.
 - `index.vue`: The primary landing page for the application.
 
 ### **4. Storybook Integration**
