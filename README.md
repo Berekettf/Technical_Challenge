@@ -5,6 +5,8 @@ This repository presents a complete implementation of a scalable design system a
 
 👇 **Video Demo**
 ---
+https://www.loom.com/share/83df70a3182e4b68b279d3437b160758?sid=6cdb4c25-0caf-46f6-8b5b-01c2103e9d5c
+---
 
 
 
