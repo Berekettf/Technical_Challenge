@@ -2,14 +2,6 @@
 ---
 This repository presents a complete implementation of a scalable design system and component library for a NuxtJS application, developed using Storybook. Below is a concise explanation of the technologies and tools used, along with the design and development decisions made throughout the project.
 ---
-
-👇 **Video Demo**
----
-https://www.loom.com/share/83df70a3182e4b68b279d3437b160758?sid=6cdb4c25-0caf-46f6-8b5b-01c2103e9d5c
----
-
-
-
 📂 Directory Structure and Features
 ---
 ### **1. Component-based Design System**
