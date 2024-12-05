@@ -1,5 +1,7 @@
 <template>
-  <p :class="customClass">{{ text }}</p>
+  <div>
+    <p :class="customClass">{{ text }}</p>
+  </div>
 </template>
 
 <script setup>

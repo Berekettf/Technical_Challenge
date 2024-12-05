@@ -1,6 +1,6 @@
 <!-- InputField.vue -->
 <template>
-  <input
+<input
     :id="id"
     :maxlength="maxlength"
     :autocomplete="autocomplete"

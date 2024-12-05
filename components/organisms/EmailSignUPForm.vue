@@ -3,16 +3,16 @@
     <InputBox
       v-model="userName"
       placeholder="Name"
-      icon-class="fa-user text-base text-black/70"
+      icon-class="fa-user text-base text-black"
     />
     <InputBox
       v-model="userSurname"
       placeholder="Surname"
-      icon-class="fa-user text-base text-black/70"
+      icon-class="fa-user text-base text-black"
     />
     <InputBox
       v-model="userEmail"
-      placeholder="test@gmail.com"
+      placeholder="Your@gmail.com"
       type="email"
       icon-class="fa-envelope text-base text-black/70"
     />
@@ -20,18 +20,18 @@
       v-model="password"
       placeholder="Password"
       type="password"
-      icon-class="fa-key text-base text-black/70"
+      icon-class="fa-key text-base text-black"
     />
     <InputBox
       v-model="confirmPassword"
       placeholder="Confirm password"
       type="password"
-      icon-class="fa-key text-base text-black/70"
+      icon-class="fa-key text-base text-black"
     />
-    <ActionButton  text="Enter" />
+    <ActionButton  text="Enter"/>
     <Text
       text=" Terms &amp; Conditions "
-      class="cursor-pointer text-center text-white/40"
+      class="cursor-pointer text-center text-black"
     />
   </div>
 </template>
